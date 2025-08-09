@@ -1,9 +1,7 @@
 # Maintainer: Verugin Gleb <gleb@glebmail.xyz>
 # Kernel config based on: arch/arm64/configs/msm8916_defconfig
 
-# Original authors, based on pmos package
-
-# Minecrell <minecrell@minecrell.net> and Nikita Travkin <nikita@trvn.ru>
+# Original authors Minecrell <minecrell@minecrell.net> and Nikita Travkin <nikita@trvn.ru>, based on pmos package
 
 _flavor="postmarketos-qcom-msm8916"
 pkgname=linux-$_flavor
