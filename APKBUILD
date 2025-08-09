@@ -1,4 +1,4 @@
-# Maintainer: Verugin Gleb
+# Maintainer: Verugin Gleb <gleb@glebmail.xyz>
 # Kernel config based on: arch/arm64/configs/msm8916_defconfig
 
 # Original authors, based on pmos package
