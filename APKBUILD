@@ -9,7 +9,7 @@ pkgver=6.12.41
 pkgrel=2
 pkgdesc="Mainline kernel fork for Qualcomm MSM8909/MSM8916/MSM8939 devices"
 arch="aarch64 armv7"
-url="https://github.com/msm8916-lts-kernels/linux"
+url="https://github.com/GlebVerugin/msm8916-linux"
 license="GPL-2.0-only"
 options="!strip !check !tracedeps
 	pmb:cross-native
